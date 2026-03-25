@@ -4,4 +4,4 @@ hello world
 
 hello from git
 i am sneha v
->>>>>>> 482678c8aed66fd2533e63e04b7a90edf4b995bf
+i am studing in dsatm
