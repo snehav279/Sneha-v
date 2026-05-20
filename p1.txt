@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-hello world
-=======
-
-i am sneha v
-i am studing in dsatm
-1DT24CS279 USN
+hello
